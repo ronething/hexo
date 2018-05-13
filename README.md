@@ -24,3 +24,9 @@
 [material](./material)
 
 [项目地址](https://github.com/viosey/hexo-theme-material)
+
+---
+
+[icarus](./icarus)
+
+[项目地址](https://github.com/ppoffice/hexo-theme-icarus)
