@@ -18,3 +18,9 @@
 [raytaylorism](./raytaylorism) 
 
 [项目地址](https://github.com/raytaylorlin/hexo-theme-raytaylorism)
+
+---
+
+[material](./material)
+
+[项目地址](https://github.com/viosey/hexo-theme-material)
