@@ -1,4 +1,4 @@
-# (themecollection)[https://themecollection.ronething.cn/]
+# [themecollection](https://themecollection.ronething.cn/)
 本项目用于收集个人认为好看的hexo主题
 
 [项目地址](https://github.com/ronething/hexo)
