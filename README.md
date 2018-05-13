@@ -38,3 +38,9 @@
 [MoeIcarus](./moe)
 
 [项目地址](https://github.com/MoeFE/Hexo-Theme-MoeIcarus)
+
+---
+
+[mabao](./mabao)
+
+[项目地址](https://github.com/moretwo/hexo-theme)
