@@ -1,2 +1,2 @@
-# hexo
-收集hexo主题
+# themecollection
+本项目用于收集个人认为好看的hexo主题
