@@ -30,3 +30,9 @@
 [icarus](./icarus)
 
 [项目地址](https://github.com/ppoffice/hexo-theme-icarus)
+
+---
+
+[MoeIcarus](./MoeIcarus)
+
+[项目地址](https://github.com/MoeFE/Hexo-Theme-MoeIcarus)
